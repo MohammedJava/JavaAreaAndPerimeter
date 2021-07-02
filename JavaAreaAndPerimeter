@@ -6,7 +6,7 @@ import java.text.*;
 //         and display the result depending on the number of significant figures desired.
 
 
-public class JavaProgram4 {
+public class JavaAreaAndPerimeter {
     public static void main(String[] args) {
         System.out.println("Enter which shape or solid's area and perimeter/volume you wish to calculate: ");
 
